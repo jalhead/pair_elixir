@@ -15,4 +15,4 @@ Consider using a TDD approach, though it's not mandatory.
 
 ## Conversion Chart
 
-![Conversion Chart](roman-numerals.jpg)
+![Conversion Chart](roman-numerals.jpeg)
